@@ -1,0 +1,14 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: WeChatTool
+
+wx:
+  appid: wx74c2a9fbe56113e1
+
+  appsecret: 7de217e9305b56542da0888dac5a0ddc
+
+  token: dulingbaidu
+
+  aeskey:
